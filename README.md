@@ -6,14 +6,10 @@ alt="Pixel coding workspace banner"
 width="100%"
 />
 
-<br />
-
 <img
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=850&height=70&lines=Hi%2C+I'm+Nguy%E1%BB%85n+Huy+Khang+%F0%9F%91%8B;Backend+Developer+Intern"
 alt="Typing introduction"
 />
-
-<br />
 
 <a href="mailto:khang.ng243@gmail.com">
   <img
@@ -33,9 +29,6 @@ alt="Typing introduction"
     alt="GitHub"
   />
 </a>
-
-<br />
-<br />
 
 <img
 src="https://komarev.com/ghpvc/?username=LuxKaito&label=Profile%20Views&color=0e75b6&style=flat-square"
